@@ -1,0 +1,8 @@
+# ninja log v5
+0	303	7301916886614594	CMakeFiles/Grupal01_pp2.dir/ejer2.cpp.obj	606628d896573e25
+4	2510	7301916908580516	CMakeFiles/Grupal01_pp2.dir/Ejercicio2.cu.obj	b763f1508830eb03
+2511	4253	7301916926087338	CMakeFiles/Grupal01_pp2.dir/cmake_device_link.obj	f0d8a45d523e1b71
+4253	4538	7301916928796641	Grupal01_pp2.exe	bc8594fae7a9696d
+1	282	7301918055270608	CMakeFiles/Grupal01_pp2.dir/ejer2.cpp.obj	606628d896573e25
+282	1970	7301918072115210	CMakeFiles/Grupal01_pp2.dir/cmake_device_link.obj	f0d8a45d523e1b71
+1970	2076	7301918072983012	Grupal01_pp2.exe	bc8594fae7a9696d
