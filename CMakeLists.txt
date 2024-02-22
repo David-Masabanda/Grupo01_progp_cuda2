@@ -9,7 +9,6 @@ find_package(fmt)
 
 add_executable(Grupal01_pp2
         Ejercicio2.cu
-        ejer2.cpp
 )
 
 target_include_directories(Grupal01_pp2
